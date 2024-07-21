@@ -7,12 +7,6 @@ This repository contains a Jupyter Notebook for integrating and using various to
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Tools and APIs](#tools-and-apis)
-  - [MistralAI](#mistralai)
-  - [Wikipedia](#wikipedia)
-  - [Arxiv](#arxiv)
-  - [VectorStoreRetriever](#vectorstoreretriever)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -27,3 +21,9 @@ To get started with this project, clone the repository and install the necessary
 git clone https://github.com/yourusername/langchain-tools-integration.git
 cd langchain-tools-integration
 pip install -r requirements.txt
+```
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
